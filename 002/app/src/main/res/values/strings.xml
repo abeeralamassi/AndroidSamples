@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">002</string>
+    <string name="to_hint">To</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="buttonSend_text">Send</string>
+</resources>
