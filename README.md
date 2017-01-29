@@ -1,6 +1,6 @@
 # AndroidSamples
 
-**001** ==> [Send data to an Activity](https://www.youtube.com/watch?v=3da_ZcvrlFo&index=6&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk) </br>
+**001** ==> [Send data to an Activity](https://github.com/mhdr/AndroidSamples/tree/master/001) </br>
 **002** ==> [Working with Linear Layout](https://www.youtube.com/watch?v=DVRN3EuF9ys&index=7&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk) </br>
 **003** ==> [Working with Relative Layout](https://www.youtube.com/watch?v=DVRN3EuF9ys&index=7&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk) </br>
 **004** ==> [Input Controls - Buttons](https://www.youtube.com/watch?v=EJ43o11ynGg&index=9&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk) </br>
