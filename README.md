@@ -13,3 +13,4 @@
 **011** ==> [Working with Spinner](https://github.com/mhdr/AndroidSamples/tree/master/011) </br>
 **012** ==> [Working with ListView](https://github.com/mhdr/AndroidSamples/tree/master/012) </br>
 **013** ==> [ListView with own layout](https://github.com/mhdr/AndroidSamples/tree/master/013) </br>
+**014** ==> [Highlight selected item in a ListView](https://github.com/mhdr/AndroidSamples/tree/master/014) </br>
