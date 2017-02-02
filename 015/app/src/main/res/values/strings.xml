@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Top 10 Movies</string>
+
+    <string-array name="movie_titles">
+        <item>The Shawshank Redemption</item>
+        <item>The Godfather</item>
+        <item>The Godfather: Part II</item>
+        <item>The Dark Knight</item>
+        <item>12 Angry Men</item>
+        <item>Schindler List</item>
+        <item>Pulp Fiction</item>
+        <item>The Lord of the Rings: The Return of the King</item>
+        <item>The Good, the Bad and the Ugly</item>
+        <item>Fight Club</item>
+    </string-array>
+
+    <string-array name="movie_years">
+        <item>1994</item>
+        <item>1972</item>
+        <item>1974</item>
+        <item>2008</item>
+        <item>1957</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>2003</item>
+        <item>1966</item>
+        <item>1999</item>
+    </string-array>
+
+    <string-array name="movie_ratings">
+        <item>9.2</item>
+        <item>9.2</item>
+        <item>9.0</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.9</item>
+        <item>8.8</item>
+        <item>8.8</item>
+    </string-array>
+</resources>
