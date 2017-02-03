@@ -10,12 +10,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link OnCustomDialogButtonClickListener} interface
- * to handle interaction events.
- */
 public class CustomDialogFragment extends DialogFragment {
 
     private OnCustomDialogButtonClickListener mListener;

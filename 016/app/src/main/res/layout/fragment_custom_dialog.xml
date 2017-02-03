@@ -41,8 +41,6 @@
                 android:text="@string/yes"/>
         </LinearLayout>
 
-
-
     </RelativeLayout>
 
 </FrameLayout>
