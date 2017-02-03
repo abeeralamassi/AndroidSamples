@@ -11,7 +11,7 @@
 
 **References**
 
-[http://blog.mhdr.ir/2017/02/02/android-listview-with-custom-adapter/](http://blog.mhdr.ir/2017/02/02/android-listview-with-custom-adapter/) 
+[http://blog.mhdr.ir/2017/02/03/android-working-with-dialogfragment/](http://blog.mhdr.ir/2017/02/03/android-working-with-dialogfragment/) 
 
 [https://www.youtube.com/watch?v=xi3kMn82YcE](https://www.youtube.com/watch?v=xi3kMn82YcE) 
 
