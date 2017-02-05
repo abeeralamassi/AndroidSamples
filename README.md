@@ -36,4 +36,4 @@
 
 **018** ==> [Working with TimePickerDialog](https://github.com/mhdr/AndroidSamples/tree/master/018)
 
-**019** ==> [Creating a Date Picker](https://github.com/mhdr/AndroidSamples/tree/master/019)
+**019** ==> [Creating a DatePickerDialog](https://github.com/mhdr/AndroidSamples/tree/master/019)
