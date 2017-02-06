@@ -39,3 +39,5 @@
 **019** ==> [Creating a DatePickerDialog](https://github.com/mhdr/AndroidSamples/tree/master/019)
 
 **020** ==> [Working with Options Menu](https://github.com/mhdr/AndroidSamples/tree/master/020)
+
+**021** ==> [Handling Click Events of Options Menu](https://github.com/mhdr/AndroidSamples/tree/master/021)
