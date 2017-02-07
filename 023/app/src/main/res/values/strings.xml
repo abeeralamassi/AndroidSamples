@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">023</string>
+
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="cities">
+        <item>Tehran</item>
+        <item>Rasht</item>
+        <item>Anzali</item>
+        <item>Lahijan</item>
+        <item>Shiraz</item>
+        <item>Ahvaz</item>
+        <item>Hamedan</item>
+        <item>Isfehan</item>
+    </string-array>
+</resources>
