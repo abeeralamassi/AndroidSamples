@@ -45,3 +45,5 @@
 **022** ==> [Create a Floating Context Menu](https://github.com/mhdr/AndroidSamples/tree/master/022)
 
 **023** ==> [Handling Click Events of Floating Context Menu](https://github.com/mhdr/AndroidSamples/tree/master/023)
+
+**024** ==> [Working with Contextual Action Mode](https://github.com/mhdr/AndroidSamples/tree/master/024)
