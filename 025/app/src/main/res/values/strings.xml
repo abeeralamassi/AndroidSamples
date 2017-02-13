@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">025</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="countries">
+        <item>Iran</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>Italy</item>
+        <item>Israel</item>
+        <item>Afghanestan</item>
+        <item>Russia</item>
+        <item>Spain</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+    </string-array>
+</resources>

@@ -47,3 +47,5 @@
 **023** ==> [Handling Click Events of Floating Context Menu](https://github.com/mhdr/AndroidSamples/tree/master/023)
 
 **024** ==> [Working with Contextual Action Mode](https://github.com/mhdr/AndroidSamples/tree/master/024)
+
+**025** ==> [ListView with Contextual Action Mode](https://github.com/mhdr/AndroidSamples/tree/master/025)
