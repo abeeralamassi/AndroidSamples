@@ -51,3 +51,5 @@
 **025** ==> [ListView with Contextual Action Mode](https://github.com/mhdr/AndroidSamples/tree/master/025)
 
 **026** ==> [Working with Popup Menu](https://github.com/mhdr/AndroidSamples/tree/master/026)
+
+**027** ==> [Menu with Radio Button](https://github.com/mhdr/AndroidSamples/tree/master/027)
