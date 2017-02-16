@@ -55,3 +55,5 @@
 **027** ==> [Menu with Radio Button](https://github.com/mhdr/AndroidSamples/tree/master/027)
 
 **028** ==> [Working with SeekBar](https://github.com/mhdr/AndroidSamples/tree/master/028)
+
+**029** ==> [Add a Fragment to an Activity at Runtime](https://github.com/mhdr/AndroidSamples/tree/master/029)
