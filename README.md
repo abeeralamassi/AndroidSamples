@@ -54,4 +54,4 @@
 
 **027** ==> [Menu with Radio Button](https://github.com/mhdr/AndroidSamples/tree/master/027)
 
-**028** ==> [Menu with SeekBar](https://github.com/mhdr/AndroidSamples/tree/master/028)
+**028** ==> [Working with SeekBar](https://github.com/mhdr/AndroidSamples/tree/master/028)
