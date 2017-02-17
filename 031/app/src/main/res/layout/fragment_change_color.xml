@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="iterator.ir.a031.ChangeColorFragment">
+
+    <RadioGroup
+        android:id="@+id/radioGroupColors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:text="Red"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioButtonRed"/>
+
+        <RadioButton
+            android:text="Blue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioButtonBlue"
+            android:layout_weight="1" />
+    </RadioGroup>
+
+
+
+</FrameLayout>

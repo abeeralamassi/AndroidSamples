@@ -6,7 +6,7 @@
 
 **References**
 
-[http://blog.mhdr.ir/2017/02/02/android-listview-with-custom-adapter/](http://blog.mhdr.ir/2017/02/02/android-listview-with-custom-adapter/) 
+[https://blog.mhdr.ir/2017/02/02/android-listview-with-custom-adapter/](http://blog.mhdr.ir/2017/02/02/android-listview-with-custom-adapter/) 
 
 [https://www.youtube.com/watch?v=cyk_ht8z6IA&index=20&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk](https://www.youtube.com/watch?v=cyk_ht8z6IA&index=20&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk) 
 

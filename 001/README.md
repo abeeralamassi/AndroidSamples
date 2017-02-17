@@ -11,6 +11,6 @@
 
 **References**
 
-[http://51.254.87.79/wordpress/2017/01/23/android-send-data-to-an-activity/](http://51.254.87.79/wordpress/2017/01/23/android-send-data-to-an-activity/) 
+[https://blog.mhdr.ir/wordpress/2017/01/23/android-send-data-to-an-activity/](http://51.254.87.79/wordpress/2017/01/23/android-send-data-to-an-activity/) 
 
 [https://www.youtube.com/watch?v=3da_ZcvrlFo&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk&index=6](https://www.youtube.com/watch?v=3da_ZcvrlFo&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk&index=6) 
