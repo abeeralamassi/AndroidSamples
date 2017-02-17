@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="iterator.ir.a032.SecondFragment"
+    android:background="@color/red">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Message"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:gravity="top|center"
+        android:id="@+id/textViewMessage" />
+
+</FrameLayout>
