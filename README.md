@@ -65,3 +65,5 @@
 **032** ==> [Communication between two Fragments](https://github.com/mhdr/AndroidSamples/tree/master/032)
 
 **033** ==> [Add a Fragment to an Activity using XML](https://github.com/mhdr/AndroidSamples/tree/master/033)
+
+**034** ==> [Supporting Tablets and Handsets](https://github.com/mhdr/AndroidSamples/tree/master/034)
