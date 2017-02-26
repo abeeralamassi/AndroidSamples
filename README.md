@@ -69,3 +69,5 @@
 **034** ==> [Supporting Tablets and Handsets](https://github.com/mhdr/AndroidSamples/tree/master/034)
 
 **035** ==> [Supporting Different Languages](https://github.com/mhdr/AndroidSamples/tree/master/035)
+
+**035** ==> [Explicit and Implicit Intent](https://github.com/mhdr/AndroidSamples/tree/master/036)
