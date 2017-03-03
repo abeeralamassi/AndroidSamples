@@ -73,3 +73,5 @@
 **036** ==> [Explicit and Implicit Intent](https://github.com/mhdr/AndroidSamples/tree/master/036)
 
 **037** ==> [Forcing an App Chooser](https://github.com/mhdr/AndroidSamples/tree/master/037)
+
+**038** ==> [Adding the Action Bar](https://github.com/mhdr/AndroidSamples/tree/master/038)
