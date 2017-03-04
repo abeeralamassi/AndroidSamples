@@ -77,3 +77,5 @@
 **038** ==> [Adding the Action Bar](https://github.com/mhdr/AndroidSamples/tree/master/038)
 
 **039** ==> [Add Up Button into Action Bar](https://github.com/mhdr/AndroidSamples/tree/master/039)
+
+**040** ==> [Inherit Styles](https://github.com/mhdr/AndroidSamples/tree/master/040)
