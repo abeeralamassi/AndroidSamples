@@ -1,0 +1,13 @@
+<resources>
+    <style name="custom_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/custom_color</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/custom_color</item>
+    </style>
+
+    <style name="custom_color" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/gradient_color</item>
+        <!-- Support library compatibility -->
+        <item name="background">@drawable/gradient_color</item>
+    </style>
+</resources>
