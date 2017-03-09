@@ -81,3 +81,5 @@
 **040** ==> [Inherit Styles](https://github.com/mhdr/AndroidSamples/tree/master/040)
 
 **041** ==> [Custom Background for Action Bar](https://github.com/mhdr/AndroidSamples/tree/master/041)
+
+**042** ==> [Working with Expandable List View](https://github.com/mhdr/AndroidSamples/tree/master/042)
