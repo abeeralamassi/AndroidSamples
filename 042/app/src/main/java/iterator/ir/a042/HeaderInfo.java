@@ -2,10 +2,6 @@ package iterator.ir.a042;
 
 import java.util.ArrayList;
 
-/**
- * Created by mahmood on 3/9/17.
- */
-
 public class HeaderInfo {
 
     public String getProvoniceName() {
