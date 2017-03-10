@@ -4,7 +4,7 @@
 
 ![02](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/043/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_001.png  "02")
 
-![03](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/043/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_002.png  "03")s
+![03](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/043/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_002.png  "03")
 
 ***
 
