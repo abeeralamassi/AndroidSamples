@@ -85,3 +85,5 @@
 **042** ==> [Working with Expandable List View](https://github.com/mhdr/AndroidSamples/tree/master/042)
 
 **043** ==> [Implement Swipe Views](https://github.com/mhdr/AndroidSamples/tree/master/043)
+
+**044** ==> [Send data to a Fragment](https://github.com/mhdr/AndroidSamples/tree/master/044)
