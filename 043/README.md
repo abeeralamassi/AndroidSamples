@@ -12,4 +12,10 @@
 
 [https://blog.mhdr.ir/2017/03/10/android-implement-swipe-views/](https://blog.mhdr.ir/2017/03/10/android-implement-swipe-views/) 
 
+[https://developer.android.com/reference/android/support/v4/view/PagerAdapter.html](https://developer.android.com/reference/android/support/v4/view/PagerAdapter.html) 
+
+[https://developer.android.com/reference/android/support/v4/app/FragmentPagerAdapter.html](https://developer.android.com/reference/android/support/v4/app/FragmentPagerAdapter.html) 
+
+[https://developer.android.com/reference/android/support/v4/app/FragmentStatePagerAdapter.html](https://developer.android.com/reference/android/support/v4/app/FragmentStatePagerAdapter.html) 
+
 [https://www.youtube.com/watch?v=9phSvgqpNtE&index=73&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk](https://www.youtube.com/watch?v=9phSvgqpNtE&index=73&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk) 

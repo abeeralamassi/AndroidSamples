@@ -87,3 +87,5 @@
 **043** ==> [Implement Swipe Views](https://github.com/mhdr/AndroidSamples/tree/master/043)
 
 **044** ==> [Send data to a Fragment](https://github.com/mhdr/AndroidSamples/tree/master/044)
+
+**045** ==> [Create Navigation Drawer using NavigationView](https://github.com/mhdr/AndroidSamples/tree/master/045)
