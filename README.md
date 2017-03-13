@@ -89,3 +89,5 @@
 **044** ==> [Send data to a Fragment](https://github.com/mhdr/AndroidSamples/tree/master/044)
 
 **045** ==> [Create Navigation Drawer using NavigationView](https://github.com/mhdr/AndroidSamples/tree/master/045)
+
+**046** ==> [Add Header for Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/046)
