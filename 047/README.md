@@ -1,5 +1,6 @@
 ##Add Hamburger icon for Navigation Drawer
 
+![01](https://github.com/mhdr/AndroidSamples/blob/master/047/images/01.gif?raw=true  "01")
 
 ***
 
