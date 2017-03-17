@@ -93,3 +93,5 @@
 **046** ==> [Add Header for Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/046)
 
 **047** ==> [Add Hamburger icon for Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/047)
+
+**048** ==> [Navigating between Menu Items of Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/048)
