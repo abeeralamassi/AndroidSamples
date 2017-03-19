@@ -101,3 +101,5 @@
 **050** ==> [AsyncTask](https://github.com/mhdr/AndroidSamples/tree/master/050)
 
 **051** ==> [Progress Bar using ProgressDialog](https://github.com/mhdr/AndroidSamples/tree/master/051)
+
+**052** ==> [Working with Thread](https://github.com/mhdr/AndroidSamples/tree/master/052)
