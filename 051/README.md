@@ -1,6 +1,6 @@
 ##Progress Bar using ProgressDialog
 
-
+![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/051/images/01.gif  "01")
 
 ***
 
