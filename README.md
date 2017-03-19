@@ -95,3 +95,5 @@
 **047** ==> [Add Hamburger icon for Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/047)
 
 **048** ==> [Navigating between Menu Items of Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/048)
+
+**049** ==> [How to Work with ScrollView](https://github.com/mhdr/AndroidSamples/tree/master/049)
