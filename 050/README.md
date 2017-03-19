@@ -1,6 +1,6 @@
 ##AsyncTask
 
-
+![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/050/images/01.gif  "01")
 
 ***
 
