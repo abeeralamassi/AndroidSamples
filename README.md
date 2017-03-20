@@ -103,3 +103,5 @@
 **051** ==> [Progress Bar using ProgressDialog](https://github.com/mhdr/AndroidSamples/tree/master/051)
 
 **052** ==> [Working with Thread](https://github.com/mhdr/AndroidSamples/tree/master/052)
+
+**053** ==> [Working with BottomNavigationView](https://github.com/mhdr/AndroidSamples/tree/master/053)

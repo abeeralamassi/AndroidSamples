@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/itemAdd"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@drawable/ic_add"
+        android:title="Add"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemEdit"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@drawable/ic_edit"
+        android:title="Edit"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemDelete"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+</menu>
