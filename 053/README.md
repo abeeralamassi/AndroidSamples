@@ -1,12 +1,12 @@
 ##Working with BottomNavigationView
 
-
+![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/053/images/01.gif  "01")
 
 ***
 
 **References**
 
-
+[https://blog.mhdr.ir/2017/03/20/android-working-with-bottomnavigationview/](https://blog.mhdr.ir/2017/03/20/android-working-with-bottomnavigationview/) 
 
 [https://www.youtube.com/watch?v=wcE7IIHKfRg](https://www.youtube.com/watch?v=wcE7IIHKfRg) 
 
