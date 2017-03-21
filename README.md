@@ -84,7 +84,7 @@
 
 **042** ==> [Working with Expandable List View](https://github.com/mhdr/AndroidSamples/tree/master/042)
 
-**043** ==> [Implement Swipe Views](https://github.com/mhdr/AndroidSamples/tree/master/043)
+**043** ==> [Implement Swipe Views Using ViewPager](https://github.com/mhdr/AndroidSamples/tree/master/043)
 
 **044** ==> [Send data to a Fragment](https://github.com/mhdr/AndroidSamples/tree/master/044)
 
@@ -105,3 +105,5 @@
 **052** ==> [Working with Thread](https://github.com/mhdr/AndroidSamples/tree/master/052)
 
 **053** ==> [Working with BottomNavigationView](https://github.com/mhdr/AndroidSamples/tree/master/053)
+
+**054** ==> [Working with Property Animation](https://github.com/mhdr/AndroidSamples/tree/master/054)

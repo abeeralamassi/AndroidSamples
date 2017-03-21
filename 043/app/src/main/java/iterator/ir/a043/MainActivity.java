@@ -17,6 +17,5 @@ public class MainActivity extends AppCompatActivity {
 
         SwipeAdapter adapter=new SwipeAdapter(getSupportFragmentManager());
         viewPager.setAdapter(adapter);
-
     }
 }

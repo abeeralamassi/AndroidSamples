@@ -1,10 +1,6 @@
-##Implement Swipe Views
+##Implement Swipe Views Using ViewPager
 
 ![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/043/images/01.gif  "01")
-
-![02](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/043/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_001.png  "02")
-
-![03](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/043/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_002.png  "03")
 
 ***
 
@@ -17,5 +13,7 @@
 [https://developer.android.com/reference/android/support/v4/app/FragmentPagerAdapter.html](https://developer.android.com/reference/android/support/v4/app/FragmentPagerAdapter.html) 
 
 [https://developer.android.com/reference/android/support/v4/app/FragmentStatePagerAdapter.html](https://developer.android.com/reference/android/support/v4/app/FragmentStatePagerAdapter.html) 
+
+[https://developer.android.com/training/animation/screen-slide.html](https://developer.android.com/training/animation/screen-slide.html) 
 
 [https://www.youtube.com/watch?v=9phSvgqpNtE&index=73&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk](https://www.youtube.com/watch?v=9phSvgqpNtE&index=73&list=PLshdtb5UWjSp0879mLeCsDQN6L73XBZTk) 
