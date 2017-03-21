@@ -3,6 +3,7 @@ package iterator.ir.a054;
 import android.animation.AnimatorInflater;
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
+import android.animation.PropertyValuesHolder;
 import android.animation.ValueAnimator;
 import android.icu.util.ValueIterator;
 import android.support.v7.app.AppCompatActivity;
@@ -74,36 +75,26 @@ public class MainActivity extends AppCompatActivity {
         buttonBlink.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                AnimatorSet set = (AnimatorSet) AnimatorInflater.loadAnimator(MainActivity.this,
-                        R.animator.blink);
-                set.setTarget(textViewBlink);
-                set.start();
+                ObjectAnimator objectAnimator=ObjectAnimator.ofFloat(textViewBlink,View.ALPHA,0f,1f);
+                objectAnimator.setDuration(600);
+                objectAnimator.setRepeatMode(ValueAnimator.REVERSE);
+                objectAnimator.setRepeatCount(ValueAnimator.INFINITE);
+                objectAnimator.setInterpolator(new AccelerateInterpolator());
+                objectAnimator.start();
             }
         });
 
         buttonZoomIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                PropertyValuesHolder propertyValuesHolder1=PropertyValuesHolder.ofFloat(View.SCALE_X,1f,2f);
+                PropertyValuesHolder propertyValuesHolder2=PropertyValuesHolder.ofFloat(View.SCALE_Y,1f,2f);
 
-                ValueAnimator valueAnimator1=ValueAnimator.ofFloat(1f,2f);
-                valueAnimator1.setDuration(1000);
+                ObjectAnimator objectAnimator=ObjectAnimator.ofPropertyValuesHolder(textViewZoomIn,
+                        propertyValuesHolder1,propertyValuesHolder2);
 
-                valueAnimator1.addUpdateListener(new ValueAnimator.AnimatorUpdateListener() {
-                    @Override
-                    public void onAnimationUpdate(ValueAnimator animation) {
-                        textViewZoomIn.setScaleX((Float) animation.getAnimatedValue());
-                    }
-                });
-
-                valueAnimator1.addUpdateListener(new ValueAnimator.AnimatorUpdateListener() {
-                    @Override
-                    public void onAnimationUpdate(ValueAnimator animation) {
-                        textViewZoomIn.setScaleY((Float) animation.getAnimatedValue());
-                    }
-                });
-
-
-                valueAnimator1.start();
+                objectAnimator.setDuration(1000);
+                objectAnimator.start();
             }
         });
 
