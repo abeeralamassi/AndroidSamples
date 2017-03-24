@@ -1,4 +1,4 @@
-##Working with Property Animation
+##Animating ListView with LayoutTransition
 
 
 
@@ -11,3 +11,5 @@
 [http://stackoverflow.com/questions/35174753/how-to-change-animations-used-by-animatelayoutchanges-mechanism](http://stackoverflow.com/questions/35174753/how-to-change-animations-used-by-animatelayoutchanges-mechanism) 
 
 [http://stackoverflow.com/questions/27283033/layouttransition-disappearing-animation-not-working-for-cursor-adapter](http://stackoverflow.com/questions/27283033/layouttransition-disappearing-animation-not-working-for-cursor-adapter) 
+
+[http://www.survivingwithandroid.com/2013/04/android-listview-animation-2.html](http://www.survivingwithandroid.com/2013/04/android-listview-animation-2.html) 

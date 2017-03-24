@@ -107,3 +107,5 @@
 **053** ==> [Working with BottomNavigationView](https://github.com/mhdr/AndroidSamples/tree/master/053)
 
 **054** ==> [Working with Property Animation](https://github.com/mhdr/AndroidSamples/tree/master/054)
+
+**055** ==> [Animating ListView with LayoutTransition](https://github.com/mhdr/AndroidSamples/tree/master/055)

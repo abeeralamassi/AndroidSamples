@@ -59,17 +59,17 @@ public class MainActivity extends AppCompatActivity {
         //itemLayoutTransition.disableTransitionType(LayoutTransition.DISAPPEARING);
 
 
-        itemLayoutTransition.setAnimator(LayoutTransition.CHANGE_APPEARING, scaleUp);
+/*        itemLayoutTransition.setAnimator(LayoutTransition.CHANGE_APPEARING, scaleUp);
         itemLayoutTransition.setDuration(LayoutTransition.CHANGE_APPEARING,1000);
-        itemLayoutTransition.setInterpolator(LayoutTransition.CHANGE_APPEARING,new OvershootInterpolator());
+        itemLayoutTransition.setInterpolator(LayoutTransition.CHANGE_APPEARING,new OvershootInterpolator());*/
 
         itemLayoutTransition.setAnimator(LayoutTransition.APPEARING, scaleUp);
         itemLayoutTransition.setDuration(LayoutTransition.APPEARING,1000);
         itemLayoutTransition.setInterpolator(LayoutTransition.APPEARING,new OvershootInterpolator());
 
-        itemLayoutTransition.setAnimator(LayoutTransition.CHANGE_DISAPPEARING, scaleDown);
+/*        itemLayoutTransition.setAnimator(LayoutTransition.CHANGE_DISAPPEARING, scaleDown);
         itemLayoutTransition.setDuration(LayoutTransition.CHANGE_DISAPPEARING,1000);
-        itemLayoutTransition.setInterpolator(LayoutTransition.CHANGE_DISAPPEARING,new OvershootInterpolator());
+        itemLayoutTransition.setInterpolator(LayoutTransition.CHANGE_DISAPPEARING,new OvershootInterpolator());*/
 
         itemLayoutTransition.setAnimator(LayoutTransition.DISAPPEARING, scaleDown);
         itemLayoutTransition.setDuration(LayoutTransition.DISAPPEARING,1000);
@@ -105,49 +105,18 @@ public class MainActivity extends AppCompatActivity {
     LayoutTransition.TransitionListener transitionListener=new LayoutTransition.TransitionListener() {
         @Override
         public void startTransition(LayoutTransition transition, ViewGroup container, View view, int transitionType) {
-            switch (transitionType)
-            {
-                case LayoutTransition.APPEARING:
-                    Log.d("startTransition","APPEARING");
-                    break;
-                case LayoutTransition.CHANGE_APPEARING:
-                    Log.d("startTransition","CHANGE_APPEARING");
-                    break;
-                case LayoutTransition.DISAPPEARING:
-                    Log.d("startTransition","DISAPPEARING");
-                    break;
-                case LayoutTransition.CHANGE_DISAPPEARING:
-                    Log.d("startTransition","CHANGE_DISAPPEARING");
-                    break;
-            }
-
             listView.setHasTransientState(true);
         }
 
         @Override
         public void endTransition(LayoutTransition transition, ViewGroup container, View view, int transitionType) {
-
-            switch (transitionType)
-            {
-                case LayoutTransition.APPEARING:
-                    Log.d("endTransition","APPEARING");
-                    break;
-                case LayoutTransition.CHANGE_APPEARING:
-                    Log.d("endTransition","CHANGE_APPEARING");
-                    break;
-                case LayoutTransition.DISAPPEARING:
-                    Log.d("endTransition","DISAPPEARING");
-                    break;
-                case LayoutTransition.CHANGE_DISAPPEARING:
-                    Log.d("endTransition","CHANGE_DISAPPEARING");
-                    break;
-            }
-
             if (transitionType == LayoutTransition.DISAPPEARING) {
                 if (listViewItems.size() > 0) {
                     listViewItems.remove(0);
                     adapter.notifyDataSetChanged();
-                    listView.requestLayout();
+
+                    listView.getChildAt(0).setScaleX(1f);
+                    listView.getChildAt(0).setScaleY(1f);
                 }
             }
 
