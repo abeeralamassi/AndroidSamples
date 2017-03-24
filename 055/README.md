@@ -1,10 +1,12 @@
 ##Animating ListView with LayoutTransition
 
-
+![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/055/images/01.gif  "01")
 
 ***
 
 **References**
+
+[https://blog.mhdr.ir/2017/03/24/android-animating-listview-with-layouttransition/](https://blog.mhdr.ir/2017/03/24/android-animating-listview-with-layouttransition/) 
 
 [https://developer.android.com/reference/android/animation/LayoutTransition.html](https://developer.android.com/reference/android/animation/LayoutTransition.html) 
 
