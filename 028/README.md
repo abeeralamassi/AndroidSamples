@@ -1,6 +1,6 @@
 ##Working with SeekBar
 
-![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/028/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_001.png  "01")
+![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/028/images/01.png  "01")
 
 ***
 

@@ -1,10 +1,10 @@
 ##Communication between two Fragments
 
-![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/032/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_001.png  "01")
+![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/032/images/01.png  "01")
 
-![02](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/032/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_002.png  "02")
+![02](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/032/images/02.png  "02")
 
-![03](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/032/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_003.png  "03")
+![03](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/032/images/03.png  "03")
 
 ***
 

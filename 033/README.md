@@ -1,6 +1,6 @@
 ##Add a Fragment to an Activity using XML
 
-![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/033/images/Android%20Emulator%20-%20Nexus_5_API_25%3A5554_001.png  "01")
+![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/033/images/01.png  "01")
 
 ***
 
