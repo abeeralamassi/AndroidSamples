@@ -109,3 +109,5 @@
 **054** ==> [Working with Property Animation](https://github.com/mhdr/AndroidSamples/tree/master/054)
 
 **055** ==> [Animating ListView with LayoutTransition](https://github.com/mhdr/AndroidSamples/tree/master/055)
+
+**056** ==> [Floating Label with TextInputLayout](https://github.com/mhdr/AndroidSamples/tree/master/056)
