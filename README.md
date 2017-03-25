@@ -111,3 +111,5 @@
 **055** ==> [Animating ListView with LayoutTransition](https://github.com/mhdr/AndroidSamples/tree/master/055)
 
 **056** ==> [Floating Label with TextInputLayout](https://github.com/mhdr/AndroidSamples/tree/master/056)
+
+**057** ==> [Working with Floating Action Button](https://github.com/mhdr/AndroidSamples/tree/master/057)
