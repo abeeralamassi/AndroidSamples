@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/4932462/animate-the-transition-between-fragments
+http://stackoverflow.com/questions/4817900/android-fragments-and-animation
