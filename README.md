@@ -117,3 +117,5 @@
 **058** ==> [Working with Snackbar](https://github.com/mhdr/AndroidSamples/tree/master/058)
 
 **059** ==> [Transition animations between activities](https://github.com/mhdr/AndroidSamples/tree/master/059)
+
+**060** ==> [Transition animation between Fragments](https://github.com/mhdr/AndroidSamples/tree/master/060)
