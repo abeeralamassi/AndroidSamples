@@ -1,6 +1,6 @@
 ##Working with TableLayout
 
-![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/063/images/01.jpg "01")
+![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/063/images/01.png "01")
 
 ***
 
