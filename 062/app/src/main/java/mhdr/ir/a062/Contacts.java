@@ -27,28 +27,27 @@ public class Contacts {
         values.put(DatabaseHandler.Schema_Contacts.COL3_PHONE_NUMBER, contact.getPhoneNumber());
         values.put(DatabaseHandler.Schema_Contacts.COL4_EMAIL_ADDRESS, contact.getEmailAddress());
 
-        long inserted_id=db.insert(DatabaseHandler.Schema_Contacts.TABLE_NAME, null, values);
+        long inserted_id = db.insert(DatabaseHandler.Schema_Contacts.TABLE_NAME, null, values);
         db.close();
 
         return inserted_id;
     }
 
-    public Cursor getContactCursor(int id)
-    {
+    public Cursor getContactCursor(int id) {
         SQLiteDatabase db = this.dbHandler.getReadableDatabase();
 
 
-        String[] columns={
+        String[] columns = {
                 DatabaseHandler.Schema_Contacts.COL1_ID,
                 DatabaseHandler.Schema_Contacts.COL2_NAME,
                 DatabaseHandler.Schema_Contacts.COL3_PHONE_NUMBER,
                 DatabaseHandler.Schema_Contacts.COL4_EMAIL_ADDRESS
         };
 
-        String selection=DatabaseHandler.Schema_Contacts.COL1_ID + " = ?";
-        String[] selectionArgs={String.valueOf(id)};
+        String selection = DatabaseHandler.Schema_Contacts.COL1_ID + " = ?";
+        String[] selectionArgs = {String.valueOf(id)};
 
-        Cursor cursor = db.query(DatabaseHandler.Schema_Contacts.TABLE_NAME,columns,
+        Cursor cursor = db.query(DatabaseHandler.Schema_Contacts.TABLE_NAME, columns,
                 selection,
                 selectionArgs, null, null, null, null);
 
@@ -58,17 +57,17 @@ public class Contacts {
     public Contact getContact(int id) {
         SQLiteDatabase db = this.dbHandler.getReadableDatabase();
 
-        String[] columns={
+        String[] columns = {
                 DatabaseHandler.Schema_Contacts.COL1_ID,
                 DatabaseHandler.Schema_Contacts.COL2_NAME,
                 DatabaseHandler.Schema_Contacts.COL3_PHONE_NUMBER,
                 DatabaseHandler.Schema_Contacts.COL4_EMAIL_ADDRESS
         };
 
-        String selection=DatabaseHandler.Schema_Contacts.COL1_ID + " = ?";
-        String[] selectionArgs={String.valueOf(id)};
+        String selection = DatabaseHandler.Schema_Contacts.COL1_ID + " = ?";
+        String[] selectionArgs = {String.valueOf(id)};
 
-        Cursor cursor = db.query(DatabaseHandler.Schema_Contacts.TABLE_NAME,columns,
+        Cursor cursor = db.query(DatabaseHandler.Schema_Contacts.TABLE_NAME, columns,
                 selection,
                 selectionArgs, null, null, null, null);
 
@@ -127,17 +126,17 @@ public class Contacts {
 
         SQLiteDatabase db = this.dbHandler.getWritableDatabase();
 
-        String[] columns={
+        String[] columns = {
                 DatabaseHandler.Schema_Contacts.COL1_ID,
                 DatabaseHandler.Schema_Contacts.COL2_NAME,
                 DatabaseHandler.Schema_Contacts.COL3_PHONE_NUMBER,
                 DatabaseHandler.Schema_Contacts.COL4_EMAIL_ADDRESS
         };
 
-        String selection=DatabaseHandler.Schema_Contacts.COL2_NAME + " LIKE ?";
-        String[] selectionArgs={name};
+        String selection = DatabaseHandler.Schema_Contacts.COL2_NAME + " LIKE ?";
+        String[] selectionArgs = {"%" + name + "%"};
 
-        Cursor cursor = db.query(DatabaseHandler.Schema_Contacts.TABLE_NAME,columns,selection,selectionArgs,null,null,null);
+        Cursor cursor = db.query(DatabaseHandler.Schema_Contacts.TABLE_NAME, columns, selection, selectionArgs, null, null, null);
 
         if (cursor.moveToFirst()) {
             do {
@@ -161,17 +160,17 @@ public class Contacts {
 
         SQLiteDatabase db = this.dbHandler.getWritableDatabase();
 
-        String[] columns={
+        String[] columns = {
                 DatabaseHandler.Schema_Contacts.COL1_ID,
                 DatabaseHandler.Schema_Contacts.COL2_NAME,
                 DatabaseHandler.Schema_Contacts.COL3_PHONE_NUMBER,
                 DatabaseHandler.Schema_Contacts.COL4_EMAIL_ADDRESS
         };
 
-        String selection=DatabaseHandler.Schema_Contacts.COL2_NAME + " LIKE ?";
-        String[] selectionArgs={name};
+        String selection = DatabaseHandler.Schema_Contacts.COL2_NAME + " LIKE ?";
+        String[] selectionArgs = {name};
 
-        Cursor cursor = db.query(DatabaseHandler.Schema_Contacts.TABLE_NAME,columns,selection,selectionArgs,null,null,null);
+        Cursor cursor = db.query(DatabaseHandler.Schema_Contacts.TABLE_NAME, columns, selection, selectionArgs, null, null, null);
 
 
         return cursor;
@@ -210,7 +209,7 @@ public class Contacts {
 
     public int deleteContact(Contact contact) {
         SQLiteDatabase db = this.dbHandler.getWritableDatabase();
-        int rows_affected=db.delete(DatabaseHandler.Schema_Contacts.TABLE_NAME,
+        int rows_affected = db.delete(DatabaseHandler.Schema_Contacts.TABLE_NAME,
                 DatabaseHandler.Schema_Contacts.COL1_ID + " = ?",
                 new String[]{String.valueOf(contact.getId())});
         db.close();
