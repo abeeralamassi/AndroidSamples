@@ -1,12 +1,22 @@
 ##Working with SQLite
 
+**Insert** 
+
 ![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/062/images/01.gif  "01")
+
+**View** 
 
 ![02](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/062/images/02.gif  "02")
 
+**Search** 
+
 ![03](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/062/images/03.gif  "03")
 
+**Update** 
+
 ![04](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/062/images/04.gif  "04")
+
+**Delete** 
 
 ![05](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/062/images/05.gif  "05")
 
