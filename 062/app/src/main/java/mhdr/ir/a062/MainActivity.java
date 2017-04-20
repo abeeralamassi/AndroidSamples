@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
     Button buttonAdd;
     Button buttonView;
     Button buttonSearch;
+    Button buttonDelete;
+    Button buttonUpdate;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +27,12 @@ public class MainActivity extends AppCompatActivity {
 
         buttonSearch= (Button) findViewById(R.id.buttonSearch);
         buttonSearch.setOnClickListener(buttonSearch_OnClickListener);
+
+        buttonDelete= (Button) findViewById(R.id.buttonDelete);
+        buttonDelete.setOnClickListener(buttonDelete_OnClickListener);
+
+        buttonUpdate= (Button) findViewById(R.id.buttonUpdate);
+        buttonUpdate.setOnClickListener(buttonUpdate_OnClickListener);
     }
 
     View.OnClickListener buttonAdd_OnClickListener=new View.OnClickListener() {
@@ -47,6 +55,22 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View v) {
             Intent intent=new Intent(getBaseContext(),SearchActivity.class);
+            startActivity(intent);
+        }
+    };
+
+    View.OnClickListener buttonDelete_OnClickListener=new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            Intent intent=new Intent(getBaseContext(),DeleteActivity.class);
+            startActivity(intent);
+        }
+    };
+
+    View.OnClickListener buttonUpdate_OnClickListener=new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            Intent intent=new Intent(getBaseContext(),UpdateActivity.class);
             startActivity(intent);
         }
     };

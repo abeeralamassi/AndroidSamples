@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mhdr.ir.a062.DeleteActivity">
+
+    <EditText
+        android:id="@+id/editTextDSearchName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Search"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/buttonDSearchContacts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextDSearchName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Search" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonDSearchContacts"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:stretchColumns="1"
+        android:id="@+id/tableLayout">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="10dp"
+            android:paddingTop="5dp">
+
+            <TextView
+                android:id="@+id/textViewD1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="3dp"
+                android:text="Name"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewDDisplayName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp">
+
+            <TextView
+                android:id="@+id/textViewD2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="3dp"
+                android:text="Name"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewDDisplayPhone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp">
+
+            <TextView
+                android:id="@+id/textViewD3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="3dp"
+                android:text="Name"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewDDisplayEmail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </TableRow>
+    </TableLayout>
+
+    <Button
+        android:id="@+id/buttonDDeleteContacts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tableLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Delete" />
+
+</RelativeLayout>
