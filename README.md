@@ -125,3 +125,5 @@
 **062** ==> [Working with SQLite](https://github.com/mhdr/AndroidSamples/tree/master/062)
 
 **063** ==> [Working with TableLayout](https://github.com/mhdr/AndroidSamples/tree/master/063)
+
+**064** ==> [Right to Left Toolbar](https://github.com/mhdr/AndroidSamples/tree/master/064)
