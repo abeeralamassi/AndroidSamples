@@ -129,3 +129,5 @@
 **064** ==> [Right to Left Toolbar](https://github.com/mhdr/AndroidSamples/tree/master/064)
 
 **065** ==> [Open Navigation Drawer from Right](https://github.com/mhdr/AndroidSamples/tree/master/065)
+
+**066** ==> [Set Selected Menu Item on BottomNavigationView](https://github.com/mhdr/AndroidSamples/tree/master/066)
