@@ -135,3 +135,5 @@
 **067** ==> [Sync ViewPager with BottomNavigationView](https://github.com/mhdr/AndroidSamples/tree/master/067)
 
 **068** ==> [Connect to Google Drive and Save a file](https://github.com/mhdr/AndroidSamples/tree/master/068)
+
+**069** ==> [Open Activity without saving it to Back Stack](https://github.com/mhdr/AndroidSamples/tree/master/069)
