@@ -139,3 +139,5 @@
 **069** ==> [Open Activity without saving it to Back Stack](https://github.com/mhdr/AndroidSamples/tree/master/069)
 
 **070** ==> [Working with NumerPicker](https://github.com/mhdr/AndroidSamples/tree/master/070)
+
+**071** ==> [Use Custom Farsi Font for Views](https://github.com/mhdr/AndroidSamples/tree/master/071)
