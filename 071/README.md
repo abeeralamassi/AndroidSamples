@@ -1,6 +1,6 @@
 ##Use Custom Farsi Font for Views
 
-![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/071/images/01.jpg  "01")
+![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/071/images/01.png  "01")
 
 ***
 
