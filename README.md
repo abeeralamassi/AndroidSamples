@@ -147,3 +147,5 @@
 **073** ==> [Custom Farsi Font for Views Using Calligraphy Library](https://github.com/mhdr/AndroidSamples/tree/master/073)
 
 **074** ==> [Set Button Background Transparent](https://github.com/mhdr/AndroidSamples/tree/master/074)
+
+**075** ==> [Focus on TextView](https://github.com/mhdr/AndroidSamples/tree/master/075)
