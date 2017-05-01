@@ -149,3 +149,5 @@
 **074** ==> [Set Button Background Transparent](https://github.com/mhdr/AndroidSamples/tree/master/074)
 
 **075** ==> [Focus on TextView](https://github.com/mhdr/AndroidSamples/tree/master/075)
+
+**076** ==> [Flat Button](https://github.com/mhdr/AndroidSamples/tree/master/076)
