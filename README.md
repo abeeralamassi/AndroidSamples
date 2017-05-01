@@ -151,3 +151,5 @@
 **075** ==> [Focus on TextView](https://github.com/mhdr/AndroidSamples/tree/master/075)
 
 **076** ==> [Flat Button](https://github.com/mhdr/AndroidSamples/tree/master/076)
+
+**077** ==> [Gradient Background Color for Button](https://github.com/mhdr/AndroidSamples/tree/master/077)
