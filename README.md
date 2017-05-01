@@ -140,6 +140,8 @@
 
 **070** ==> [Working with NumerPicker](https://github.com/mhdr/AndroidSamples/tree/master/070)
 
-**071** ==> [Use Custom Farsi Font for Views](https://github.com/mhdr/AndroidSamples/tree/master/071)
+**071** ==> [Custom Farsi Font for Views Using TypeFace](https://github.com/mhdr/AndroidSamples/tree/master/071)
 
 **072** ==> [Set Width and Height of DialogFragment](https://github.com/mhdr/AndroidSamples/tree/master/072)
+
+**073** ==> [Custom Farsi Font for Views Using Calligraphy Library](https://github.com/mhdr/AndroidSamples/tree/master/073)

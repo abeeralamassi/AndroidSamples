@@ -1,4 +1,4 @@
-##Use Custom Farsi Font for Views
+##Custom Farsi Font for Views Using TypeFace
 
 ![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/071/images/01.png  "01")
 
