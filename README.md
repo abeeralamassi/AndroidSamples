@@ -155,3 +155,5 @@
 **077** ==> [Gradient Background Color for Button](https://github.com/mhdr/AndroidSamples/tree/master/077)
 
 **078** ==> [Reduce APK Size](https://github.com/mhdr/AndroidSamples/tree/master/078)
+
+**079** ==> [Sign App](https://github.com/mhdr/AndroidSamples/tree/master/079)
