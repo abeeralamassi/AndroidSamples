@@ -153,3 +153,5 @@
 **076** ==> [Flat Button](https://github.com/mhdr/AndroidSamples/tree/master/076)
 
 **077** ==> [Gradient Background Color for Button](https://github.com/mhdr/AndroidSamples/tree/master/077)
+
+**078** ==> [Reduce APK Size](https://github.com/mhdr/AndroidSamples/tree/master/078)
