@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ir.mhdr.a081.MainActivity">
+
+    <View android:background="@color/colorPrimary"
+        app:layout_heightPercent="50%"
+        app:layout_marginLeftPercent="25%"
+        app:layout_marginTopPercent="25%"
+        app:layout_widthPercent="50%"
+        android:id="@+id/viewColor">
+
+    </View>
+
+    <android.support.percent.PercentFrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/viewColor"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true">
+
+        <View
+            android:layout_gravity="center"
+            android:background="@color/colorAccent"
+            app:layout_heightPercent="30%"
+            app:layout_widthPercent="50%" />
+    </android.support.percent.PercentFrameLayout>
+
+</android.support.percent.PercentRelativeLayout>
