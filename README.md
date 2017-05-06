@@ -157,3 +157,5 @@
 **078** ==> [Reduce APK Size](https://github.com/mhdr/AndroidSamples/tree/master/078)
 
 **079** ==> [Sign App](https://github.com/mhdr/AndroidSamples/tree/master/079)
+
+**080** ==> [Gauge Library](https://github.com/mhdr/AndroidSamples/tree/master/080)
