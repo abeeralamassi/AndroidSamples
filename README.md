@@ -161,3 +161,5 @@
 **080** ==> [Gauge Library](https://github.com/mhdr/AndroidSamples/tree/master/080)
 
 **081** ==> [Percent Layouts](https://github.com/mhdr/AndroidSamples/tree/master/081)
+
+**082** ==> [Working with RecyclerView](https://github.com/mhdr/AndroidSamples/tree/master/082)
