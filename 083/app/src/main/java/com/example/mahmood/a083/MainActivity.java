@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
         buttonPrevious.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -42,6 +41,4 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
-
 }

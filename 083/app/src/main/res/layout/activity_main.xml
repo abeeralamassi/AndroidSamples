@@ -70,7 +70,4 @@
             android:gravity="center"/>
     </ViewFlipper>
 
-
-
-
 </RelativeLayout>
