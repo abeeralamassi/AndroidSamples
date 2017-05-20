@@ -163,3 +163,5 @@
 **081** ==> [Percent Layouts](https://github.com/mhdr/AndroidSamples/tree/master/081)
 
 **082** ==> [Working with RecyclerView](https://github.com/mhdr/AndroidSamples/tree/master/082)
+
+**083** ==> [Working with ViewFlipper](https://github.com/mhdr/AndroidSamples/tree/master/083)
