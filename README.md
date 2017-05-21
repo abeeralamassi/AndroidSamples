@@ -169,3 +169,5 @@
 **084** ==> [Working with Support GridLayout](https://github.com/mhdr/AndroidSamples/tree/master/084)
 
 **085** ==> [Working With RecyclerView and CardView](https://github.com/mhdr/AndroidSamples/tree/master/085)
+
+**086** ==> [Animate Items in RecyclerView Using RecyclerView Animators Library](https://github.com/mhdr/AndroidSamples/tree/master/086)
