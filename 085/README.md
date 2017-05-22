@@ -14,6 +14,6 @@
 
 [http://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/](http://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/) 
 
-[http://stackoverflow.com/questions/27599603/cardview-not-showing-shadow-in-android-lhttp://stackoverflow.com/questions/27599603/cardview-not-showing-shadow-in-android-l](http://stackoverflow.com/questions/27599603/cardview-not-showing-shadow-in-android-l) 
+[http://stackoverflow.com/questions/27599603/cardview-not-showing-shadow-in-android-l](http://stackoverflow.com/questions/27599603/cardview-not-showing-shadow-in-android-l) 
 
 [https://www.youtube.com/watch?v=A2_6mI7drVQ](https://www.youtube.com/watch?v=A2_6mI7drVQ) 

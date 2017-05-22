@@ -171,3 +171,5 @@
 **085** ==> [Working With RecyclerView and CardView](https://github.com/mhdr/AndroidSamples/tree/master/085)
 
 **086** ==> [Animate Items in RecyclerView Using RecyclerView Animators Library](https://github.com/mhdr/AndroidSamples/tree/master/086)
+
+**087** ==> [Inflate multiple types of rows inside a RecyclerView](https://github.com/mhdr/AndroidSamples/tree/master/087)
