@@ -1,4 +1,4 @@
-##Add Header Layout to NavigationView 
+##Add Header Layout to NavigationView
 
 ![01](https://raw.githubusercontent.com/mhdr/AndroidSamples/master/093/images/01.gif  "01")
 
