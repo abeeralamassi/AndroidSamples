@@ -181,3 +181,5 @@
 **090** ==> [Right to Left Menu Items of Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/090)
 
 **091** ==> [Select Menu Item of Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/091)
+
+**092** ==> [Add Spinner as an item in Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/092)
