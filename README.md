@@ -183,3 +183,5 @@
 **091** ==> [Select Menu Item of Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/091)
 
 **092** ==> [Add Spinner as an item in Navigation Drawer](https://github.com/mhdr/AndroidSamples/tree/master/092)
+
+**093** ==> [Add Header Layout to NavigationView ](https://github.com/mhdr/AndroidSamples/tree/master/093)
