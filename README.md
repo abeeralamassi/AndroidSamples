@@ -187,3 +187,5 @@
 **093** ==> [Add Header Layout to NavigationView](https://github.com/mhdr/AndroidSamples/tree/master/093)
 
 **094** ==> [Back Navigation for ActionBar](https://github.com/mhdr/AndroidSamples/tree/master/094)
+
+**095** ==> [Hide FloatingActionButton on Scroll of RecyclerView](https://github.com/mhdr/AndroidSamples/tree/master/095)
