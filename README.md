@@ -189,3 +189,5 @@
 **094** ==> [Back Navigation for ActionBar](https://github.com/mhdr/AndroidSamples/tree/master/094)
 
 **095** ==> [Hide FloatingActionButton on Scroll of RecyclerView](https://github.com/mhdr/AndroidSamples/tree/master/095)
+
+**096** ==> [Create a Modal Bottom Sheet](https://github.com/mhdr/AndroidSamples/tree/master/096)

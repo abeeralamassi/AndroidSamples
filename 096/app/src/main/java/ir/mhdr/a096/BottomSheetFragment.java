@@ -1,7 +1,6 @@
 package ir.mhdr.a096;
 
 
-import android.app.Dialog;
 import android.os.Bundle;
 import android.support.design.widget.BottomSheetDialogFragment;
 import android.support.v4.app.Fragment;
@@ -22,9 +21,10 @@ public class BottomSheetFragment extends BottomSheetDialogFragment {
 
 
     @Override
-    public void setupDialog(Dialog dialog, int style) {
-        super.setupDialog(dialog, style);
-        View contentView = View.inflate(getContext(), R.layout.fragment_bottom_sheet, null);
-        dialog.setContentView(contentView);
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        // Inflate the layout for this fragment
+        return inflater.inflate(R.layout.fragment_bottom_sheet, container, false);
     }
+
 }
