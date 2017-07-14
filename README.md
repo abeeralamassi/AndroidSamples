@@ -191,3 +191,5 @@
 **095** ==> [Hide FloatingActionButton on Scroll of RecyclerView](https://github.com/mhdr/AndroidSamples/tree/master/095)
 
 **096** ==> [Create a Modal Bottom Sheet](https://github.com/mhdr/AndroidSamples/tree/master/096)
+
+**097** ==> [Working with greenDAO](https://github.com/mhdr/AndroidSamples/tree/master/097)
